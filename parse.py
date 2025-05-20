@@ -11,10 +11,6 @@ def parse_csv_columns(file_path):
                     columns[field].append(row[field])
         return columns
 
-# if __name__ == "__main__":
-#     columns = parse_csv_columns('/Users/ari/Downloads/DATA.CSV - DATA.CSV.csv')
-#     print(columns)
-
 def referTo(time):
     columns = parse_csv_columns('/Users/ari/Downloads/DATA.CSV - DATA.CSV.csv')
     if time in columns["Time"]:
@@ -46,4 +42,16 @@ def approxReferTo(time):
     else:
         return "No valid times found"
 
-print(approxReferTo("16:30:14"))
+
+def getTime(field, value):
+    columns = parse_csv_columns('/Users/ari/Downloads/DATA.CSV - DATA.CSV.csv')
+    if field not in columns:
+        return f"Field '{field}' not found"
+    times = []
+    for i, v in enumerate(columns[field]):
+        try:
+            if float(v) == float(value):
+                times.append(columns["Time"][i])
+        except ValueError:
+            continue
+    return times
