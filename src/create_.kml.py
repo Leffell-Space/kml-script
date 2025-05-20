@@ -1,7 +1,7 @@
 import os.path as isfile
 import time
 import simplekml
-import parse
+import src.parse as parse
 
 current_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 print("Current time:", current_time)
