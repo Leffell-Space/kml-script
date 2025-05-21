@@ -8,7 +8,7 @@ os.makedirs("kml_saves", exist_ok=True)
 
 current_time = time.strftime("%Y-%m-%d_%H-%M-%S", time.localtime())
 print("Current time:", current_time)
-schema_name = f"Sensor_Data_{current_time.replace('-', '_').replace(' ', '_')}"
+schema_name = f"Sensor_Data_{current_time.replace(' ', '_').replace(' ', '_')}"
 file_name = f"kml_saves/save_{current_time}.kml"
 
 fields = [
@@ -67,7 +67,8 @@ def create_kml():
                 </SchemaData>
             </ExtendedData>
             <Point>
-                <coordinates>{lon},{lat},0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>{lon},{lat},{escape(row[3])}</coordinates>
             </Point>
         </Placemark>
         """
@@ -76,7 +77,13 @@ def create_kml():
     # Path line
     linestring = ""
     if coords_list:
-        coords_str = " ".join([f"{lon},{lat},0" for lon, lat in coords_list])
+        # Use actual altitude for each point in the path
+        rows = list(parse.get_all_rows())
+        coords_str = " ".join([
+            f"{float(row[2])},{float(row[1])},{escape(row[3])}"
+            for row in rows[1:]  # Skip header row
+            if len(row) > 3
+        ])
         linestring = f"""
         <Placemark>
             <name>Path</name>
