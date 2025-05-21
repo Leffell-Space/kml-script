@@ -1,65 +1,104 @@
 import time
 import simplekml
-import parse as parse
+import parse
+import os
 
-current_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+# Make sure save directory exists
+os.makedirs("kml_saves", exist_ok=True)
+
+current_time = time.strftime("%Y-%m-%d_%H-%M-%S", time.localtime())
 print("Current time:", current_time)
-file_name = ".kml_saves/save_" + current_time.replace(":", "-") + ".kml"  # avoid colons in filename
+schema_name = f"Sensor_Data_{current_time.replace('-', '_').replace(' ', '_')}"
+file_name = f"kml_saves/save_{current_time}.kml"
 
 def create_kml():
     kml = simplekml.Kml()
     
-    schema = kml.newschema(name=file_name)
-    # schema.id = "YourSchemaID"  # optional, not required unless referencing elsewhere
-
+    # Create schema with name only
+    schema = kml.newschema(name=schema_name)
+    
+    # Get the actual ID that SimpleKML assigned
+    schema_url = f"#{schema.name}"  # simplekml uses the name as the ID by default
+    print(f"Schema URL: {schema_url}")
+    
+    # Define field mappings with proper types
     fields = [
-        ("Time", "string"),
-        ("Latitude", "float"),
-        ("Longitude", "float"),
-        ("Alt", "string"),
-        ("Inside Temp", "string"),
-        ("Outside Temp", "string"),
-        ("Pressure", "string"),
-        ("Ozone Concentration", "string"),
-        ("CO2 Quality", "string"),
-        ("Temperature", "string"),
-        ("Humidity", "string"),
+        ("Name", "string"),
+        ("Latitude", "double"),
+        ("Longitude", "double"),
+        ("Altitude", "double"),
+        ("Inside_Temp", "double"),
+        ("Outside_Temp", "double"),
+        ("Pressure", "double"),
+        ("Ozone_Concentration", "double"),
+        ("CO2_Quality", "double"),
+        ("Temperature", "double"),
+        ("Humidity", "double"),
     ]
-
-    for name, typ in fields:
-        schema.newsimplefield(name=name, type=typ)
-
-    coords_for_line = []
-
+    
+    # Define display names (what appears in Google Earth)
+    display_names = [
+        "Time",
+        "Latitude", 
+        "Longitude",
+        "Altitude",
+        "Inside Temp",
+        "Outside Temp",
+        "Pressure",
+        "Ozone Concentration",
+        "CO2 Quality",
+        "Temperature",
+        "Humidity",
+    ]
+    
+    # Create SimpleFields
+    for i, ((field_name, field_type), display_name) in enumerate(zip(fields, display_names)):
+        simple_field = schema.newsimplefield(name=field_name, type=field_type)
+        simple_field.displayname = display_name
+    
+    coords_list = []
     for row in parse.get_all_rows():
-        if row[0] == "Time":
+        try:
+            lat = float(row[1])
+            lon = float(row[2])
+        except (IndexError, ValueError):
             continue
-        lat = row[1]
-        lon = row[2]
-        alt = row[3]
-        coords_for_line.append((lon, lat, alt))  # KML uses (lon, lat, alt)
-
-        placemark = kml.newpoint(name=row[0], coords=[(lon, lat, alt)])
-        placemark.altitudemode = simplekml.AltitudeMode.absolute
-        placemark.description = (
-            f"Time: {row[0]}<br>Latitude: {row[1]}<br>Longitude: {row[2]}<br>Alt: {row[3]}<br>"
-            f"Inside Temp: {row[4]}<br>Outside Temp: {row[5]}<br>Pressure: {row[6]}<br>"
-            f"Ozone Concentration: {row[7]}<br>CO2 Quality: {row[8]}<br>Temperature: {row[9]}<br>Humidity: {row[10]}"
-        )
-        schemadata = placemark.extendeddata.schemadata
-        schemadata.schemaurl = "#" + schema.name
-        for i, (name, _) in enumerate(fields):
-            schemadata.newsimpledata(name=name, value=str(row[i]))
-
-    # Add line connecting all points
-    linestring = kml.newlinestring(name="Flight Path")
-    linestring.coords = coords_for_line
-    linestring.altitudemode = simplekml.AltitudeMode.absolute
-    linestring.extrude = 1  # Optional: drop to ground
-    linestring.style.linestyle.color = simplekml.Color.red
-    linestring.style.linestyle.width = 3
-
+            
+        coords_list.append((lon, lat))
+        
+        # Create placemark with proper name (time)
+        placemark = kml.newpoint(name=row[0], coords=[(lon, lat)])
+        
+        # Create extended data with proper schema reference
+        extended_data = placemark.extendeddata
+        sd = extended_data.schemadata()
+        sd.schemaurl = schema_url  # Use the schema URL derived from the name
+        
+        # Add simple data using field names
+        for i, (field_name, _) in enumerate(fields):
+            if i < len(row): 
+                try:
+                    # Handle numeric fields properly
+                    if i > 0:  # Everything except the time field
+                        sd.newsimpledata(field_name, str(row[i]).strip())
+                    else:
+                        sd.newsimpledata(field_name, row[i])
+                except Exception as e:
+                    print(f"Error adding data for field {field_name}: {e}")
+                    sd.newsimpledata(field_name, str(row[i]))
+    
+    # Create path line if we have coordinates
+    if coords_list:
+        line = kml.newlinestring(name="Path")
+        line.coords = coords_list
+        line.altitudemode = simplekml.AltitudeMode.absolute
+        line.extrude = 0
+        line.style.linestyle.width = 3
+        line.style.linestyle.color = simplekml.Color.red
+    
+    # Save the KML file
+    print(f"Saving KML file to {file_name}")
     kml.save(file_name)
-    # print(f"Saved KML to: {file_name}")
+    print(f"KML file saved successfully with schema name: {schema_name}")
 
 create_kml()
