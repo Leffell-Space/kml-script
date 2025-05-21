@@ -1,0 +1,3329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Sensor_Data_2025-05-20_21-41-21</name>
+    
+    <Schema name="Sensor_Data_2025-05-20_21-41-21" id="Sensor_Data_2025-05-20_21-41-21">
+        <SimpleField name="Name" type="string"><displayName>Time</displayName></SimpleField>
+<SimpleField name="Latitude" type="double"><displayName>Latitude</displayName></SimpleField>
+<SimpleField name="Longitude" type="double"><displayName>Longitude</displayName></SimpleField>
+<SimpleField name="Altitude" type="double"><displayName>Altitude</displayName></SimpleField>
+<SimpleField name="Inside_Temp" type="double"><displayName>Inside Temp</displayName></SimpleField>
+<SimpleField name="Outside_Temp" type="double"><displayName>Outside Temp</displayName></SimpleField>
+<SimpleField name="Pressure" type="double"><displayName>Pressure</displayName></SimpleField>
+<SimpleField name="Ozone_Concentration" type="double"><displayName>Ozone Concentration</displayName></SimpleField>
+<SimpleField name="CO2_Quality" type="double"><displayName>CO2 Quality</displayName></SimpleField>
+<SimpleField name="Temperature" type="double"><displayName>Temperature</displayName></SimpleField>
+<SimpleField name="Humidity" type="double"><displayName>Humidity</displayName></SimpleField>
+
+    </Schema>
+    
+    
+        <Placemark>
+            <name>16:26:12</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:26:12</SimpleData>
+<SimpleData name="Latitude">41.032162</SimpleData>
+<SimpleData name="Longitude">-73.806938</SimpleData>
+<SimpleData name="Altitude">125.9</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">20.25</SimpleData>
+<SimpleData name="Pressure">100230</SimpleData>
+<SimpleData name="Ozone_Concentration">71</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">25.29</SimpleData>
+<SimpleData name="Humidity">35.81</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806938,41.032162,125.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:26:22</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:26:22</SimpleData>
+<SimpleData name="Latitude">41.032188</SimpleData>
+<SimpleData name="Longitude">-73.806915</SimpleData>
+<SimpleData name="Altitude">122.7</SimpleData>
+<SimpleData name="Inside_Temp">21.75</SimpleData>
+<SimpleData name="Outside_Temp">19.88</SimpleData>
+<SimpleData name="Pressure">100241</SimpleData>
+<SimpleData name="Ozone_Concentration">70</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">25.28</SimpleData>
+<SimpleData name="Humidity">35.98</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806915,41.032188,122.7</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:26:32</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:26:32</SimpleData>
+<SimpleData name="Latitude">41.032227</SimpleData>
+<SimpleData name="Longitude">-73.806915</SimpleData>
+<SimpleData name="Altitude">123.2</SimpleData>
+<SimpleData name="Inside_Temp">21.69</SimpleData>
+<SimpleData name="Outside_Temp">19.31</SimpleData>
+<SimpleData name="Pressure">100230</SimpleData>
+<SimpleData name="Ozone_Concentration">68</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.82</SimpleData>
+<SimpleData name="Humidity">33.99</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806915,41.032227,123.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:26:42</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:26:42</SimpleData>
+<SimpleData name="Latitude">41.032204</SimpleData>
+<SimpleData name="Longitude">-73.806923</SimpleData>
+<SimpleData name="Altitude">124.8</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">19.06</SimpleData>
+<SimpleData name="Pressure">100237</SimpleData>
+<SimpleData name="Ozone_Concentration">65</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.8</SimpleData>
+<SimpleData name="Humidity">32.64</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806923,41.032204,124.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:26:52</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:26:52</SimpleData>
+<SimpleData name="Latitude">41.0322</SimpleData>
+<SimpleData name="Longitude">-73.806915</SimpleData>
+<SimpleData name="Altitude">123.6</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">18.81</SimpleData>
+<SimpleData name="Pressure">100247</SimpleData>
+<SimpleData name="Ozone_Concentration">62</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.77</SimpleData>
+<SimpleData name="Humidity">32.89</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806915,41.0322,123.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:27:02</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:27:02</SimpleData>
+<SimpleData name="Latitude">41.032196</SimpleData>
+<SimpleData name="Longitude">-73.806923</SimpleData>
+<SimpleData name="Altitude">121.2</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">18.63</SimpleData>
+<SimpleData name="Pressure">100243</SimpleData>
+<SimpleData name="Ozone_Concentration">61</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.84</SimpleData>
+<SimpleData name="Humidity">32.92</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806923,41.032196,121.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:27:12</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:27:12</SimpleData>
+<SimpleData name="Latitude">41.032196</SimpleData>
+<SimpleData name="Longitude">-73.806931</SimpleData>
+<SimpleData name="Altitude">119.8</SimpleData>
+<SimpleData name="Inside_Temp">21.56</SimpleData>
+<SimpleData name="Outside_Temp">18.13</SimpleData>
+<SimpleData name="Pressure">100242</SimpleData>
+<SimpleData name="Ozone_Concentration">61</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.81</SimpleData>
+<SimpleData name="Humidity">33.96</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806931,41.032196,119.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:27:22</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:27:22</SimpleData>
+<SimpleData name="Latitude">41.032146</SimpleData>
+<SimpleData name="Longitude">-73.806885</SimpleData>
+<SimpleData name="Altitude">120.4</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">17.94</SimpleData>
+<SimpleData name="Pressure">100239</SimpleData>
+<SimpleData name="Ozone_Concentration">62</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.77</SimpleData>
+<SimpleData name="Humidity">33.84</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806885,41.032146,120.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:27:32</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:27:32</SimpleData>
+<SimpleData name="Latitude">41.032047</SimpleData>
+<SimpleData name="Longitude">-73.80687</SimpleData>
+<SimpleData name="Altitude">120.4</SimpleData>
+<SimpleData name="Inside_Temp">21.69</SimpleData>
+<SimpleData name="Outside_Temp">18.19</SimpleData>
+<SimpleData name="Pressure">100242</SimpleData>
+<SimpleData name="Ozone_Concentration">59</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.77</SimpleData>
+<SimpleData name="Humidity">33.3</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80687,41.032047,120.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:27:42</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:27:42</SimpleData>
+<SimpleData name="Latitude">41.031986</SimpleData>
+<SimpleData name="Longitude">-73.806717</SimpleData>
+<SimpleData name="Altitude">119.9</SimpleData>
+<SimpleData name="Inside_Temp">21.69</SimpleData>
+<SimpleData name="Outside_Temp">18.44</SimpleData>
+<SimpleData name="Pressure">100241</SimpleData>
+<SimpleData name="Ozone_Concentration">49</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.78</SimpleData>
+<SimpleData name="Humidity">33.26</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806717,41.031986,119.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:27:52</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:27:52</SimpleData>
+<SimpleData name="Latitude">41.031975</SimpleData>
+<SimpleData name="Longitude">-73.806564</SimpleData>
+<SimpleData name="Altitude">120.2</SimpleData>
+<SimpleData name="Inside_Temp">21.81</SimpleData>
+<SimpleData name="Outside_Temp">18.75</SimpleData>
+<SimpleData name="Pressure">100244</SimpleData>
+<SimpleData name="Ozone_Concentration">39</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.77</SimpleData>
+<SimpleData name="Humidity">33.22</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806564,41.031975,120.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:28:02</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:28:02</SimpleData>
+<SimpleData name="Latitude">41.031986</SimpleData>
+<SimpleData name="Longitude">-73.806435</SimpleData>
+<SimpleData name="Altitude">120.3</SimpleData>
+<SimpleData name="Inside_Temp">21.81</SimpleData>
+<SimpleData name="Outside_Temp">19</SimpleData>
+<SimpleData name="Pressure">100248</SimpleData>
+<SimpleData name="Ozone_Concentration">41</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.78</SimpleData>
+<SimpleData name="Humidity">33.29</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806435,41.031986,120.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:28:12</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:28:12</SimpleData>
+<SimpleData name="Latitude">41.032001</SimpleData>
+<SimpleData name="Longitude">-73.806305</SimpleData>
+<SimpleData name="Altitude">120</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">18.94</SimpleData>
+<SimpleData name="Pressure">100258</SimpleData>
+<SimpleData name="Ozone_Concentration">45</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.74</SimpleData>
+<SimpleData name="Humidity">33.33</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806305,41.032001,120</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:28:22</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:28:22</SimpleData>
+<SimpleData name="Latitude">41.032055</SimpleData>
+<SimpleData name="Longitude">-73.806183</SimpleData>
+<SimpleData name="Altitude">119.8</SimpleData>
+<SimpleData name="Inside_Temp">21.81</SimpleData>
+<SimpleData name="Outside_Temp">18.63</SimpleData>
+<SimpleData name="Pressure">100260</SimpleData>
+<SimpleData name="Ozone_Concentration">50</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.75</SimpleData>
+<SimpleData name="Humidity">33.35</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806183,41.032055,119.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:28:32</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:28:32</SimpleData>
+<SimpleData name="Latitude">41.032158</SimpleData>
+<SimpleData name="Longitude">-73.806068</SimpleData>
+<SimpleData name="Altitude">119.8</SimpleData>
+<SimpleData name="Inside_Temp">21.81</SimpleData>
+<SimpleData name="Outside_Temp">18.31</SimpleData>
+<SimpleData name="Pressure">100261</SimpleData>
+<SimpleData name="Ozone_Concentration">54</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.74</SimpleData>
+<SimpleData name="Humidity">33.36</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806068,41.032158,119.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:28:42</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:28:42</SimpleData>
+<SimpleData name="Latitude">41.032242</SimpleData>
+<SimpleData name="Longitude">-73.805962</SimpleData>
+<SimpleData name="Altitude">119.6</SimpleData>
+<SimpleData name="Inside_Temp">21.81</SimpleData>
+<SimpleData name="Outside_Temp">18.19</SimpleData>
+<SimpleData name="Pressure">100261</SimpleData>
+<SimpleData name="Ozone_Concentration">58</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.7</SimpleData>
+<SimpleData name="Humidity">33.37</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.805962,41.032242,119.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:28:52</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:28:52</SimpleData>
+<SimpleData name="Latitude">41.032352</SimpleData>
+<SimpleData name="Longitude">-73.805901</SimpleData>
+<SimpleData name="Altitude">118.5</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">17.94</SimpleData>
+<SimpleData name="Pressure">100258</SimpleData>
+<SimpleData name="Ozone_Concentration">63</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.75</SimpleData>
+<SimpleData name="Humidity">33.56</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.805901,41.032352,118.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:29:02</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:29:02</SimpleData>
+<SimpleData name="Latitude">41.032463</SimpleData>
+<SimpleData name="Longitude">-73.805893</SimpleData>
+<SimpleData name="Altitude">118.5</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">17.81</SimpleData>
+<SimpleData name="Pressure">100271</SimpleData>
+<SimpleData name="Ozone_Concentration">68</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.72</SimpleData>
+<SimpleData name="Humidity">33.4</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.805893,41.032463,118.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:29:12</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:29:12</SimpleData>
+<SimpleData name="Latitude">41.03257</SimpleData>
+<SimpleData name="Longitude">-73.805939</SimpleData>
+<SimpleData name="Altitude">118.5</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">17.63</SimpleData>
+<SimpleData name="Pressure">100268</SimpleData>
+<SimpleData name="Ozone_Concentration">74</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.71</SimpleData>
+<SimpleData name="Humidity">33.69</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.805939,41.03257,118.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:29:22</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:29:22</SimpleData>
+<SimpleData name="Latitude">41.032661</SimpleData>
+<SimpleData name="Longitude">-73.806015</SimpleData>
+<SimpleData name="Altitude">118.4</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">17.31</SimpleData>
+<SimpleData name="Pressure">100256</SimpleData>
+<SimpleData name="Ozone_Concentration">80</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.71</SimpleData>
+<SimpleData name="Humidity">34.16</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806015,41.032661,118.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:29:32</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:29:32</SimpleData>
+<SimpleData name="Latitude">41.032787</SimpleData>
+<SimpleData name="Longitude">-73.806114</SimpleData>
+<SimpleData name="Altitude">116.8</SimpleData>
+<SimpleData name="Inside_Temp">21.94</SimpleData>
+<SimpleData name="Outside_Temp">17.06</SimpleData>
+<SimpleData name="Pressure">100269</SimpleData>
+<SimpleData name="Ozone_Concentration">86</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.63</SimpleData>
+<SimpleData name="Humidity">34</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806114,41.032787,116.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:29:42</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:29:42</SimpleData>
+<SimpleData name="Latitude">41.032864</SimpleData>
+<SimpleData name="Longitude">-73.806198</SimpleData>
+<SimpleData name="Altitude">114.1</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">16.75</SimpleData>
+<SimpleData name="Pressure">100271</SimpleData>
+<SimpleData name="Ozone_Concentration">90</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.66</SimpleData>
+<SimpleData name="Humidity">33.99</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806198,41.032864,114.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:29:52</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:29:52</SimpleData>
+<SimpleData name="Latitude">41.032963</SimpleData>
+<SimpleData name="Longitude">-73.80629</SimpleData>
+<SimpleData name="Altitude">114.2</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">16.5</SimpleData>
+<SimpleData name="Pressure">100267</SimpleData>
+<SimpleData name="Ozone_Concentration">93</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.61</SimpleData>
+<SimpleData name="Humidity">33.92</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80629,41.032963,114.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:30:02</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:30:02</SimpleData>
+<SimpleData name="Latitude">41.033005</SimpleData>
+<SimpleData name="Longitude">-73.806435</SimpleData>
+<SimpleData name="Altitude">114</SimpleData>
+<SimpleData name="Inside_Temp">21.94</SimpleData>
+<SimpleData name="Outside_Temp">16.38</SimpleData>
+<SimpleData name="Pressure">100257</SimpleData>
+<SimpleData name="Ozone_Concentration">98</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.59</SimpleData>
+<SimpleData name="Humidity">33.64</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806435,41.033005,114</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:30:12</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:30:12</SimpleData>
+<SimpleData name="Latitude">41.033016</SimpleData>
+<SimpleData name="Longitude">-73.806587</SimpleData>
+<SimpleData name="Altitude">115</SimpleData>
+<SimpleData name="Inside_Temp">21.94</SimpleData>
+<SimpleData name="Outside_Temp">16.31</SimpleData>
+<SimpleData name="Pressure">100262</SimpleData>
+<SimpleData name="Ozone_Concentration">103</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.53</SimpleData>
+<SimpleData name="Humidity">33.62</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806587,41.033016,115</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:30:22</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:30:22</SimpleData>
+<SimpleData name="Latitude">41.033012</SimpleData>
+<SimpleData name="Longitude">-73.806732</SimpleData>
+<SimpleData name="Altitude">115.6</SimpleData>
+<SimpleData name="Inside_Temp">21.94</SimpleData>
+<SimpleData name="Outside_Temp">16.31</SimpleData>
+<SimpleData name="Pressure">100253</SimpleData>
+<SimpleData name="Ozone_Concentration">105</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.47</SimpleData>
+<SimpleData name="Humidity">33.6</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806732,41.033012,115.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:30:32</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:30:32</SimpleData>
+<SimpleData name="Latitude">41.032986</SimpleData>
+<SimpleData name="Longitude">-73.806877</SimpleData>
+<SimpleData name="Altitude">116.7</SimpleData>
+<SimpleData name="Inside_Temp">21.94</SimpleData>
+<SimpleData name="Outside_Temp">16.25</SimpleData>
+<SimpleData name="Pressure">100253</SimpleData>
+<SimpleData name="Ozone_Concentration">105</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.44</SimpleData>
+<SimpleData name="Humidity">33.39</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.806877,41.032986,116.7</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:30:42</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:30:42</SimpleData>
+<SimpleData name="Latitude">41.032948</SimpleData>
+<SimpleData name="Longitude">-73.807053</SimpleData>
+<SimpleData name="Altitude">115</SimpleData>
+<SimpleData name="Inside_Temp">22</SimpleData>
+<SimpleData name="Outside_Temp">16.38</SimpleData>
+<SimpleData name="Pressure">100243</SimpleData>
+<SimpleData name="Ozone_Concentration">104</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.4</SimpleData>
+<SimpleData name="Humidity">33.11</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807053,41.032948,115</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:30:52</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:30:52</SimpleData>
+<SimpleData name="Latitude">41.032955</SimpleData>
+<SimpleData name="Longitude">-73.807159</SimpleData>
+<SimpleData name="Altitude">117.2</SimpleData>
+<SimpleData name="Inside_Temp">22</SimpleData>
+<SimpleData name="Outside_Temp">16.44</SimpleData>
+<SimpleData name="Pressure">34422</SimpleData>
+<SimpleData name="Ozone_Concentration">102</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.34</SimpleData>
+<SimpleData name="Humidity">33.05</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807159,41.032955,117.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:31:02</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:31:02</SimpleData>
+<SimpleData name="Latitude">41.032982</SimpleData>
+<SimpleData name="Longitude">-73.80722</SimpleData>
+<SimpleData name="Altitude">117.2</SimpleData>
+<SimpleData name="Inside_Temp">22</SimpleData>
+<SimpleData name="Outside_Temp">16.38</SimpleData>
+<SimpleData name="Pressure">100246</SimpleData>
+<SimpleData name="Ozone_Concentration">99</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.33</SimpleData>
+<SimpleData name="Humidity">33.03</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80722,41.032982,117.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:31:09</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:31:09</SimpleData>
+<SimpleData name="Latitude">41.032997</SimpleData>
+<SimpleData name="Longitude">-73.807205</SimpleData>
+<SimpleData name="Altitude">116</SimpleData>
+<SimpleData name="Inside_Temp">22</SimpleData>
+<SimpleData name="Outside_Temp">16.19</SimpleData>
+<SimpleData name="Pressure">100248</SimpleData>
+<SimpleData name="Ozone_Concentration">96</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.23</SimpleData>
+<SimpleData name="Humidity">33.07</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807205,41.032997,116</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:31:19</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:31:19</SimpleData>
+<SimpleData name="Latitude">41.032986</SimpleData>
+<SimpleData name="Longitude">-73.807213</SimpleData>
+<SimpleData name="Altitude">116.4</SimpleData>
+<SimpleData name="Inside_Temp">21.94</SimpleData>
+<SimpleData name="Outside_Temp">16.06</SimpleData>
+<SimpleData name="Pressure">100240</SimpleData>
+<SimpleData name="Ozone_Concentration">92</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.03</SimpleData>
+<SimpleData name="Humidity">32.42</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807213,41.032986,116.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:31:29</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:31:29</SimpleData>
+<SimpleData name="Latitude">41.032978</SimpleData>
+<SimpleData name="Longitude">-73.80719</SimpleData>
+<SimpleData name="Altitude">115.3</SimpleData>
+<SimpleData name="Inside_Temp">21.94</SimpleData>
+<SimpleData name="Outside_Temp">15.94</SimpleData>
+<SimpleData name="Pressure">100240</SimpleData>
+<SimpleData name="Ozone_Concentration">88</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.08</SimpleData>
+<SimpleData name="Humidity">32.34</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80719,41.032978,115.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:31:39</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:31:39</SimpleData>
+<SimpleData name="Latitude">41.032967</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">115.4</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.81</SimpleData>
+<SimpleData name="Pressure">100238</SimpleData>
+<SimpleData name="Ozone_Concentration">82</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">32.36</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032967,115.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:31:49</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:31:49</SimpleData>
+<SimpleData name="Latitude">41.032974</SimpleData>
+<SimpleData name="Longitude">-73.807175</SimpleData>
+<SimpleData name="Altitude">115.2</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.69</SimpleData>
+<SimpleData name="Pressure">100239</SimpleData>
+<SimpleData name="Ozone_Concentration">77</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">32.36</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807175,41.032974,115.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:31:59</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:31:59</SimpleData>
+<SimpleData name="Latitude">41.032967</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">114.9</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.5</SimpleData>
+<SimpleData name="Pressure">100242</SimpleData>
+<SimpleData name="Ozone_Concentration">72</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">32.33</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032967,114.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:32:09</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:32:09</SimpleData>
+<SimpleData name="Latitude">41.032967</SimpleData>
+<SimpleData name="Longitude">-73.80719</SimpleData>
+<SimpleData name="Altitude">114.3</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.38</SimpleData>
+<SimpleData name="Pressure">100238</SimpleData>
+<SimpleData name="Ozone_Concentration">66</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">32.37</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80719,41.032967,114.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:32:19</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:32:19</SimpleData>
+<SimpleData name="Latitude">41.03297</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">114.9</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.25</SimpleData>
+<SimpleData name="Pressure">100236</SimpleData>
+<SimpleData name="Ozone_Concentration">60</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.13</SimpleData>
+<SimpleData name="Humidity">32.3</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.03297,114.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:32:29</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:32:29</SimpleData>
+<SimpleData name="Latitude">41.032978</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">114.3</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.13</SimpleData>
+<SimpleData name="Pressure">100238</SimpleData>
+<SimpleData name="Ozone_Concentration">53</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">32.27</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032978,114.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:32:39</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:32:39</SimpleData>
+<SimpleData name="Latitude">41.032974</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">114.5</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.06</SimpleData>
+<SimpleData name="Pressure">100246</SimpleData>
+<SimpleData name="Ozone_Concentration">45</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">32.3</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032974,114.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:32:49</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:32:49</SimpleData>
+<SimpleData name="Latitude">41.032967</SimpleData>
+<SimpleData name="Longitude">-73.807198</SimpleData>
+<SimpleData name="Altitude">114.9</SimpleData>
+<SimpleData name="Inside_Temp">21.88</SimpleData>
+<SimpleData name="Outside_Temp">15.06</SimpleData>
+<SimpleData name="Pressure">100236</SimpleData>
+<SimpleData name="Ozone_Concentration">39</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">32.29</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807198,41.032967,114.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:32:59</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:32:59</SimpleData>
+<SimpleData name="Latitude">41.03297</SimpleData>
+<SimpleData name="Longitude">-73.80719</SimpleData>
+<SimpleData name="Altitude">113.6</SimpleData>
+<SimpleData name="Inside_Temp">21.75</SimpleData>
+<SimpleData name="Outside_Temp">15.13</SimpleData>
+<SimpleData name="Pressure">100246</SimpleData>
+<SimpleData name="Ozone_Concentration">33</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.08</SimpleData>
+<SimpleData name="Humidity">32.33</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80719,41.03297,113.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:33:09</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:33:09</SimpleData>
+<SimpleData name="Latitude">41.032982</SimpleData>
+<SimpleData name="Longitude">-73.807175</SimpleData>
+<SimpleData name="Altitude">113</SimpleData>
+<SimpleData name="Inside_Temp">21.81</SimpleData>
+<SimpleData name="Outside_Temp">15.06</SimpleData>
+<SimpleData name="Pressure">100243</SimpleData>
+<SimpleData name="Ozone_Concentration">27</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.09</SimpleData>
+<SimpleData name="Humidity">32.4</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807175,41.032982,113</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:33:19</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:33:19</SimpleData>
+<SimpleData name="Latitude">41.032982</SimpleData>
+<SimpleData name="Longitude">-73.807167</SimpleData>
+<SimpleData name="Altitude">114.5</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">15.06</SimpleData>
+<SimpleData name="Pressure">100242</SimpleData>
+<SimpleData name="Ozone_Concentration">22</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.72</SimpleData>
+<SimpleData name="Humidity">32.2</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807167,41.032982,114.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:33:29</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:33:29</SimpleData>
+<SimpleData name="Latitude">41.032978</SimpleData>
+<SimpleData name="Longitude">-73.807175</SimpleData>
+<SimpleData name="Altitude">114.2</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">15.06</SimpleData>
+<SimpleData name="Pressure">100234</SimpleData>
+<SimpleData name="Ozone_Concentration">16</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.71</SimpleData>
+<SimpleData name="Humidity">32.05</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807175,41.032978,114.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:33:39</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:33:39</SimpleData>
+<SimpleData name="Latitude">41.032978</SimpleData>
+<SimpleData name="Longitude">-73.807167</SimpleData>
+<SimpleData name="Altitude">113.7</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">15</SimpleData>
+<SimpleData name="Pressure">100237</SimpleData>
+<SimpleData name="Ozone_Concentration">10</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.71</SimpleData>
+<SimpleData name="Humidity">32.14</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807167,41.032978,113.7</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:33:49</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:33:49</SimpleData>
+<SimpleData name="Latitude">41.032974</SimpleData>
+<SimpleData name="Longitude">-73.807175</SimpleData>
+<SimpleData name="Altitude">113.5</SimpleData>
+<SimpleData name="Inside_Temp">21.63</SimpleData>
+<SimpleData name="Outside_Temp">15</SimpleData>
+<SimpleData name="Pressure">100236</SimpleData>
+<SimpleData name="Ozone_Concentration">5</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.66</SimpleData>
+<SimpleData name="Humidity">32.12</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807175,41.032974,113.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:33:59</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:33:59</SimpleData>
+<SimpleData name="Latitude">41.03297</SimpleData>
+<SimpleData name="Longitude">-73.80719</SimpleData>
+<SimpleData name="Altitude">112.3</SimpleData>
+<SimpleData name="Inside_Temp">21.56</SimpleData>
+<SimpleData name="Outside_Temp">15</SimpleData>
+<SimpleData name="Pressure">100239</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.64</SimpleData>
+<SimpleData name="Humidity">32.17</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80719,41.03297,112.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:34:09</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:34:09</SimpleData>
+<SimpleData name="Latitude">41.03297</SimpleData>
+<SimpleData name="Longitude">-73.80719</SimpleData>
+<SimpleData name="Altitude">112.7</SimpleData>
+<SimpleData name="Inside_Temp">21.56</SimpleData>
+<SimpleData name="Outside_Temp">14.94</SimpleData>
+<SimpleData name="Pressure">100242</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.61</SimpleData>
+<SimpleData name="Humidity">32.21</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80719,41.03297,112.7</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:34:19</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:34:19</SimpleData>
+<SimpleData name="Latitude">41.032978</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">112.8</SimpleData>
+<SimpleData name="Inside_Temp">21.56</SimpleData>
+<SimpleData name="Outside_Temp">15</SimpleData>
+<SimpleData name="Pressure">100240</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.61</SimpleData>
+<SimpleData name="Humidity">32.27</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032978,112.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:34:29</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:34:29</SimpleData>
+<SimpleData name="Latitude">41.032982</SimpleData>
+<SimpleData name="Longitude">-73.807175</SimpleData>
+<SimpleData name="Altitude">113.9</SimpleData>
+<SimpleData name="Inside_Temp">21.56</SimpleData>
+<SimpleData name="Outside_Temp">14.94</SimpleData>
+<SimpleData name="Pressure">100241</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.6</SimpleData>
+<SimpleData name="Humidity">32.33</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807175,41.032982,113.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:34:39</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:34:39</SimpleData>
+<SimpleData name="Latitude">41.032974</SimpleData>
+<SimpleData name="Longitude">-73.807167</SimpleData>
+<SimpleData name="Altitude">114.2</SimpleData>
+<SimpleData name="Inside_Temp">21.5</SimpleData>
+<SimpleData name="Outside_Temp">15</SimpleData>
+<SimpleData name="Pressure">100234</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.58</SimpleData>
+<SimpleData name="Humidity">32.4</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807167,41.032974,114.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:34:49</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:34:49</SimpleData>
+<SimpleData name="Latitude">41.03297</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">114.1</SimpleData>
+<SimpleData name="Inside_Temp">21.5</SimpleData>
+<SimpleData name="Outside_Temp">15</SimpleData>
+<SimpleData name="Pressure">100234</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.55</SimpleData>
+<SimpleData name="Humidity">32.41</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.03297,114.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:34:59</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:34:59</SimpleData>
+<SimpleData name="Latitude">41.032974</SimpleData>
+<SimpleData name="Longitude">-73.807175</SimpleData>
+<SimpleData name="Altitude">113.6</SimpleData>
+<SimpleData name="Inside_Temp">21.44</SimpleData>
+<SimpleData name="Outside_Temp">15.06</SimpleData>
+<SimpleData name="Pressure">100233</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.52</SimpleData>
+<SimpleData name="Humidity">32.48</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807175,41.032974,113.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:35:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:35:10</SimpleData>
+<SimpleData name="Latitude">41.03297</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">113.5</SimpleData>
+<SimpleData name="Inside_Temp">21.44</SimpleData>
+<SimpleData name="Outside_Temp">15.13</SimpleData>
+<SimpleData name="Pressure">100236</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.51</SimpleData>
+<SimpleData name="Humidity">32.51</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.03297,113.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:35:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:35:20</SimpleData>
+<SimpleData name="Latitude">41.032967</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">112.6</SimpleData>
+<SimpleData name="Inside_Temp">21.38</SimpleData>
+<SimpleData name="Outside_Temp">15.19</SimpleData>
+<SimpleData name="Pressure">100246</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.5</SimpleData>
+<SimpleData name="Humidity">32.57</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032967,112.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:35:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:35:30</SimpleData>
+<SimpleData name="Latitude">41.032967</SimpleData>
+<SimpleData name="Longitude">-73.807198</SimpleData>
+<SimpleData name="Altitude">112.3</SimpleData>
+<SimpleData name="Inside_Temp">21.44</SimpleData>
+<SimpleData name="Outside_Temp">15.19</SimpleData>
+<SimpleData name="Pressure">100242</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.5</SimpleData>
+<SimpleData name="Humidity">32.58</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807198,41.032967,112.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:35:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:35:40</SimpleData>
+<SimpleData name="Latitude">41.032963</SimpleData>
+<SimpleData name="Longitude">-73.80719</SimpleData>
+<SimpleData name="Altitude">112.9</SimpleData>
+<SimpleData name="Inside_Temp">21.44</SimpleData>
+<SimpleData name="Outside_Temp">15.13</SimpleData>
+<SimpleData name="Pressure">100236</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.52</SimpleData>
+<SimpleData name="Humidity">32.56</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80719,41.032963,112.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:35:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:35:50</SimpleData>
+<SimpleData name="Latitude">41.032955</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">113.6</SimpleData>
+<SimpleData name="Inside_Temp">21.38</SimpleData>
+<SimpleData name="Outside_Temp">15</SimpleData>
+<SimpleData name="Pressure">100243</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.5</SimpleData>
+<SimpleData name="Humidity">32.58</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032955,113.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:36:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:36:00</SimpleData>
+<SimpleData name="Latitude">41.032948</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">114</SimpleData>
+<SimpleData name="Inside_Temp">21.38</SimpleData>
+<SimpleData name="Outside_Temp">14.88</SimpleData>
+<SimpleData name="Pressure">100245</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.51</SimpleData>
+<SimpleData name="Humidity">32.55</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032948,114</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:36:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:36:10</SimpleData>
+<SimpleData name="Latitude">41.032955</SimpleData>
+<SimpleData name="Longitude">-73.80719</SimpleData>
+<SimpleData name="Altitude">115.3</SimpleData>
+<SimpleData name="Inside_Temp">21.44</SimpleData>
+<SimpleData name="Outside_Temp">14.75</SimpleData>
+<SimpleData name="Pressure">100218</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.48</SimpleData>
+<SimpleData name="Humidity">32.52</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80719,41.032955,115.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:36:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:36:20</SimpleData>
+<SimpleData name="Latitude">41.032948</SimpleData>
+<SimpleData name="Longitude">-73.807175</SimpleData>
+<SimpleData name="Altitude">116.6</SimpleData>
+<SimpleData name="Inside_Temp">21.31</SimpleData>
+<SimpleData name="Outside_Temp">14.81</SimpleData>
+<SimpleData name="Pressure">100242</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.45</SimpleData>
+<SimpleData name="Humidity">32.27</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807175,41.032948,116.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:36:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:36:30</SimpleData>
+<SimpleData name="Latitude">41.032917</SimpleData>
+<SimpleData name="Longitude">-73.807182</SimpleData>
+<SimpleData name="Altitude">118.1</SimpleData>
+<SimpleData name="Inside_Temp">21.31</SimpleData>
+<SimpleData name="Outside_Temp">14.81</SimpleData>
+<SimpleData name="Pressure">100235</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.37</SimpleData>
+<SimpleData name="Humidity">32.28</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807182,41.032917,118.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:36:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:36:40</SimpleData>
+<SimpleData name="Latitude">41.032822</SimpleData>
+<SimpleData name="Longitude">-73.807289</SimpleData>
+<SimpleData name="Altitude">116.9</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">14.81</SimpleData>
+<SimpleData name="Pressure">100224</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.34</SimpleData>
+<SimpleData name="Humidity">32.41</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807289,41.032822,116.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:36:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:36:50</SimpleData>
+<SimpleData name="Latitude">41.032757</SimpleData>
+<SimpleData name="Longitude">-73.807411</SimpleData>
+<SimpleData name="Altitude">117.6</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">14.94</SimpleData>
+<SimpleData name="Pressure">100220</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.34</SimpleData>
+<SimpleData name="Humidity">32.44</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807411,41.032757,117.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:37:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:37:00</SimpleData>
+<SimpleData name="Latitude">41.032711</SimpleData>
+<SimpleData name="Longitude">-73.807549</SimpleData>
+<SimpleData name="Altitude">118.5</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">15.38</SimpleData>
+<SimpleData name="Pressure">100216</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.31</SimpleData>
+<SimpleData name="Humidity">32.44</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807549,41.032711,118.5</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:37:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:37:10</SimpleData>
+<SimpleData name="Latitude">41.032639</SimpleData>
+<SimpleData name="Longitude">-73.807701</SimpleData>
+<SimpleData name="Altitude">118.8</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">15.94</SimpleData>
+<SimpleData name="Pressure">100218</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.35</SimpleData>
+<SimpleData name="Humidity">32.51</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807701,41.032639,118.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:37:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:37:20</SimpleData>
+<SimpleData name="Latitude">41.032589</SimpleData>
+<SimpleData name="Longitude">-73.807808</SimpleData>
+<SimpleData name="Altitude">119.4</SimpleData>
+<SimpleData name="Inside_Temp">21.13</SimpleData>
+<SimpleData name="Outside_Temp">16.06</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.33</SimpleData>
+<SimpleData name="Humidity">32.51</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807808,41.032589,119.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:37:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:37:30</SimpleData>
+<SimpleData name="Latitude">41.032574</SimpleData>
+<SimpleData name="Longitude">-73.807961</SimpleData>
+<SimpleData name="Altitude">119.2</SimpleData>
+<SimpleData name="Inside_Temp">21.13</SimpleData>
+<SimpleData name="Outside_Temp">16.25</SimpleData>
+<SimpleData name="Pressure">100211</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.28</SimpleData>
+<SimpleData name="Humidity">32.55</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807961,41.032574,119.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:37:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:37:40</SimpleData>
+<SimpleData name="Latitude">41.032543</SimpleData>
+<SimpleData name="Longitude">-73.808083</SimpleData>
+<SimpleData name="Altitude">120.7</SimpleData>
+<SimpleData name="Inside_Temp">21.13</SimpleData>
+<SimpleData name="Outside_Temp">16.88</SimpleData>
+<SimpleData name="Pressure">100213</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.27</SimpleData>
+<SimpleData name="Humidity">32.56</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808083,41.032543,120.7</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:37:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:37:50</SimpleData>
+<SimpleData name="Latitude">41.032501</SimpleData>
+<SimpleData name="Longitude">-73.808014</SimpleData>
+<SimpleData name="Altitude">120</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">17.75</SimpleData>
+<SimpleData name="Pressure">100220</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.28</SimpleData>
+<SimpleData name="Humidity">32.59</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808014,41.032501,120</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:38:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:38:00</SimpleData>
+<SimpleData name="Latitude">41.032383</SimpleData>
+<SimpleData name="Longitude">-73.807945</SimpleData>
+<SimpleData name="Altitude">122.2</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18</SimpleData>
+<SimpleData name="Pressure">100224</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.24</SimpleData>
+<SimpleData name="Humidity">32.72</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807945,41.032383,122.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:38:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:38:10</SimpleData>
+<SimpleData name="Latitude">41.032276</SimpleData>
+<SimpleData name="Longitude">-73.807968</SimpleData>
+<SimpleData name="Altitude">121.2</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18.38</SimpleData>
+<SimpleData name="Pressure">100224</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.27</SimpleData>
+<SimpleData name="Humidity">32.78</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807968,41.032276,121.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:38:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:38:20</SimpleData>
+<SimpleData name="Latitude">41.032249</SimpleData>
+<SimpleData name="Longitude">-73.807976</SimpleData>
+<SimpleData name="Altitude">122.6</SimpleData>
+<SimpleData name="Inside_Temp">21.13</SimpleData>
+<SimpleData name="Outside_Temp">18.5</SimpleData>
+<SimpleData name="Pressure">100223</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.28</SimpleData>
+<SimpleData name="Humidity">32.83</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807976,41.032249,122.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:38:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:38:30</SimpleData>
+<SimpleData name="Latitude">41.032269</SimpleData>
+<SimpleData name="Longitude">-73.807838</SimpleData>
+<SimpleData name="Altitude">126.1</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18.13</SimpleData>
+<SimpleData name="Pressure">100225</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.24</SimpleData>
+<SimpleData name="Humidity">32.94</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807838,41.032269,126.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:38:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:38:40</SimpleData>
+<SimpleData name="Latitude">41.032299</SimpleData>
+<SimpleData name="Longitude">-73.807693</SimpleData>
+<SimpleData name="Altitude">129.7</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">17.81</SimpleData>
+<SimpleData name="Pressure">100221</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.24</SimpleData>
+<SimpleData name="Humidity">32.95</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807693,41.032299,129.7</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:38:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:38:50</SimpleData>
+<SimpleData name="Latitude">41.032276</SimpleData>
+<SimpleData name="Longitude">-73.807587</SimpleData>
+<SimpleData name="Altitude">129.4</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">17.88</SimpleData>
+<SimpleData name="Pressure">100210</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.21</SimpleData>
+<SimpleData name="Humidity">33.04</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807587,41.032276,129.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:39:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:39:00</SimpleData>
+<SimpleData name="Latitude">41.032269</SimpleData>
+<SimpleData name="Longitude">-73.807571</SimpleData>
+<SimpleData name="Altitude">129.8</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18</SimpleData>
+<SimpleData name="Pressure">100218</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.21</SimpleData>
+<SimpleData name="Humidity">33.14</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807571,41.032269,129.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:39:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:39:10</SimpleData>
+<SimpleData name="Latitude">41.032249</SimpleData>
+<SimpleData name="Longitude">-73.807526</SimpleData>
+<SimpleData name="Altitude">129.8</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18.31</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.23</SimpleData>
+<SimpleData name="Humidity">33.11</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807526,41.032249,129.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:39:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:39:20</SimpleData>
+<SimpleData name="Latitude">41.032188</SimpleData>
+<SimpleData name="Longitude">-73.807495</SimpleData>
+<SimpleData name="Altitude">129.3</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">18.75</SimpleData>
+<SimpleData name="Pressure">100225</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.27</SimpleData>
+<SimpleData name="Humidity">33.11</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807495,41.032188,129.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:39:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:39:30</SimpleData>
+<SimpleData name="Latitude">41.032215</SimpleData>
+<SimpleData name="Longitude">-73.807434</SimpleData>
+<SimpleData name="Altitude">130</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18.69</SimpleData>
+<SimpleData name="Pressure">100224</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.23</SimpleData>
+<SimpleData name="Humidity">33.08</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807434,41.032215,130</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:39:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:39:40</SimpleData>
+<SimpleData name="Latitude">41.0322</SimpleData>
+<SimpleData name="Longitude">-73.807434</SimpleData>
+<SimpleData name="Altitude">130</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18.75</SimpleData>
+<SimpleData name="Pressure">100229</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.21</SimpleData>
+<SimpleData name="Humidity">33.11</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807434,41.0322,130</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:39:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:39:50</SimpleData>
+<SimpleData name="Latitude">41.032207</SimpleData>
+<SimpleData name="Longitude">-73.807419</SimpleData>
+<SimpleData name="Altitude">130</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18.88</SimpleData>
+<SimpleData name="Pressure">100233</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.21</SimpleData>
+<SimpleData name="Humidity">33.15</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807419,41.032207,130</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:40:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:40:00</SimpleData>
+<SimpleData name="Latitude">41.031631</SimpleData>
+<SimpleData name="Longitude">-73.807716</SimpleData>
+<SimpleData name="Altitude">135.6</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">18.94</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.18</SimpleData>
+<SimpleData name="Humidity">33.25</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807716,41.031631,135.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:40:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:40:10</SimpleData>
+<SimpleData name="Latitude">41.032341</SimpleData>
+<SimpleData name="Longitude">-73.80764</SimpleData>
+<SimpleData name="Altitude">156.8</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">19.06</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.21</SimpleData>
+<SimpleData name="Humidity">33.15</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80764,41.032341,156.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:40:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:40:20</SimpleData>
+<SimpleData name="Latitude">41.032455</SimpleData>
+<SimpleData name="Longitude">-73.807663</SimpleData>
+<SimpleData name="Altitude">148.1</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">19.19</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.23</SimpleData>
+<SimpleData name="Humidity">33.2</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807663,41.032455,148.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:40:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:40:30</SimpleData>
+<SimpleData name="Latitude">41.032616</SimpleData>
+<SimpleData name="Longitude">-73.807777</SimpleData>
+<SimpleData name="Altitude">146.7</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">19.38</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.24</SimpleData>
+<SimpleData name="Humidity">33.34</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807777,41.032616,146.7</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:40:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:40:40</SimpleData>
+<SimpleData name="Latitude">41.032402</SimpleData>
+<SimpleData name="Longitude">-73.807648</SimpleData>
+<SimpleData name="Altitude">139.2</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">19.5</SimpleData>
+<SimpleData name="Pressure">100229</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.27</SimpleData>
+<SimpleData name="Humidity">35.72</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807648,41.032402,139.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:40:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:40:50</SimpleData>
+<SimpleData name="Latitude">41.032486</SimpleData>
+<SimpleData name="Longitude">-73.807747</SimpleData>
+<SimpleData name="Altitude">138.1</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">19.56</SimpleData>
+<SimpleData name="Pressure">100229</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.3</SimpleData>
+<SimpleData name="Humidity">36.25</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807747,41.032486,138.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:41:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:41:00</SimpleData>
+<SimpleData name="Latitude">41.032547</SimpleData>
+<SimpleData name="Longitude">-73.807922</SimpleData>
+<SimpleData name="Altitude">139.3</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">19.69</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.33</SimpleData>
+<SimpleData name="Humidity">36.28</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807922,41.032547,139.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:41:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:41:10</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">20.94</SimpleData>
+<SimpleData name="Outside_Temp">19.69</SimpleData>
+<SimpleData name="Pressure">100228</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.34</SimpleData>
+<SimpleData name="Humidity">36.69</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:41:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:41:20</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">19.81</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.34</SimpleData>
+<SimpleData name="Humidity">36.64</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:41:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:41:30</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">19.88</SimpleData>
+<SimpleData name="Pressure">100223</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.38</SimpleData>
+<SimpleData name="Humidity">36.49</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:41:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:41:40</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">20.94</SimpleData>
+<SimpleData name="Outside_Temp">19.94</SimpleData>
+<SimpleData name="Pressure">100224</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.37</SimpleData>
+<SimpleData name="Humidity">36.46</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:41:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:41:50</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">20</SimpleData>
+<SimpleData name="Pressure">100229</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.38</SimpleData>
+<SimpleData name="Humidity">36.34</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:42:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:42:00</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">20.06</SimpleData>
+<SimpleData name="Pressure">100233</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.4</SimpleData>
+<SimpleData name="Humidity">36.33</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:42:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:42:10</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">20.94</SimpleData>
+<SimpleData name="Outside_Temp">20.19</SimpleData>
+<SimpleData name="Pressure">100228</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.42</SimpleData>
+<SimpleData name="Humidity">36.27</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:42:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:42:20</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">20.31</SimpleData>
+<SimpleData name="Pressure">100221</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.38</SimpleData>
+<SimpleData name="Humidity">36.35</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:42:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:42:30</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">20.38</SimpleData>
+<SimpleData name="Pressure">100225</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.42</SimpleData>
+<SimpleData name="Humidity">36.47</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:42:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:42:40</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">20.31</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.47</SimpleData>
+<SimpleData name="Humidity">36.44</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:42:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:42:50</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21</SimpleData>
+<SimpleData name="Outside_Temp">20.38</SimpleData>
+<SimpleData name="Pressure">100224</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.5</SimpleData>
+<SimpleData name="Humidity">36.27</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:43:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:43:00</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">20.5</SimpleData>
+<SimpleData name="Pressure">100225</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.5</SimpleData>
+<SimpleData name="Humidity">36.19</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:43:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:43:10</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">20.56</SimpleData>
+<SimpleData name="Pressure">100217</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.5</SimpleData>
+<SimpleData name="Humidity">36.12</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:43:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:43:20</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">20.63</SimpleData>
+<SimpleData name="Pressure">100227</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.5</SimpleData>
+<SimpleData name="Humidity">36.09</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:43:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:43:30</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">20.75</SimpleData>
+<SimpleData name="Pressure">100225</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.52</SimpleData>
+<SimpleData name="Humidity">36.7</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:43:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:43:40</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">20.75</SimpleData>
+<SimpleData name="Pressure">100223</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.57</SimpleData>
+<SimpleData name="Humidity">36.82</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:43:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:43:50</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">20.88</SimpleData>
+<SimpleData name="Pressure">100219</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.57</SimpleData>
+<SimpleData name="Humidity">36.88</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:44:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:44:00</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.06</SimpleData>
+<SimpleData name="Outside_Temp">21</SimpleData>
+<SimpleData name="Pressure">100228</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.62</SimpleData>
+<SimpleData name="Humidity">36.91</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:44:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:44:10</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.13</SimpleData>
+<SimpleData name="Outside_Temp">21.06</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.65</SimpleData>
+<SimpleData name="Humidity">36.92</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:44:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:44:20</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.66</SimpleData>
+<SimpleData name="Humidity">36.87</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:44:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:44:30</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100228</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.71</SimpleData>
+<SimpleData name="Humidity">36.85</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:44:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:44:40</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">21</SimpleData>
+<SimpleData name="Pressure">100228</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.71</SimpleData>
+<SimpleData name="Humidity">36.88</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:44:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:44:50</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">21.06</SimpleData>
+<SimpleData name="Pressure">100233</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.72</SimpleData>
+<SimpleData name="Humidity">36.75</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:45:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:45:00</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100226</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.76</SimpleData>
+<SimpleData name="Humidity">36.64</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:45:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:45:10</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100230</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.81</SimpleData>
+<SimpleData name="Humidity">36.58</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:45:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:45:20</SimpleData>
+<SimpleData name="Latitude">41.032707</SimpleData>
+<SimpleData name="Longitude">-73.807877</SimpleData>
+<SimpleData name="Altitude">139.9</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100232</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.81</SimpleData>
+<SimpleData name="Humidity">36.57</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.807877,41.032707,139.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:45:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:45:30</SimpleData>
+<SimpleData name="Latitude">41.032345</SimpleData>
+<SimpleData name="Longitude">-73.808632</SimpleData>
+<SimpleData name="Altitude">139.8</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100230</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.82</SimpleData>
+<SimpleData name="Humidity">36.69</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808632,41.032345,139.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:45:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:45:40</SimpleData>
+<SimpleData name="Latitude">41.032349</SimpleData>
+<SimpleData name="Longitude">-73.808556</SimpleData>
+<SimpleData name="Altitude">134.6</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100227</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.86</SimpleData>
+<SimpleData name="Humidity">36.75</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808556,41.032349,134.6</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:45:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:45:50</SimpleData>
+<SimpleData name="Latitude">41.032196</SimpleData>
+<SimpleData name="Longitude">-73.808571</SimpleData>
+<SimpleData name="Altitude">124.9</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100232</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.89</SimpleData>
+<SimpleData name="Humidity">36.68</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808571,41.032196,124.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:46:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:46:00</SimpleData>
+<SimpleData name="Latitude">41.032192</SimpleData>
+<SimpleData name="Longitude">-73.808525</SimpleData>
+<SimpleData name="Altitude">122.3</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100232</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.93</SimpleData>
+<SimpleData name="Humidity">36.59</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808525,41.032192,122.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:46:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:46:10</SimpleData>
+<SimpleData name="Latitude">41.032196</SimpleData>
+<SimpleData name="Longitude">-73.808441</SimpleData>
+<SimpleData name="Altitude">121</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.06</SimpleData>
+<SimpleData name="Pressure">100231</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.95</SimpleData>
+<SimpleData name="Humidity">36.57</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808441,41.032196,121</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:46:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:46:20</SimpleData>
+<SimpleData name="Latitude">41.032135</SimpleData>
+<SimpleData name="Longitude">-73.808517</SimpleData>
+<SimpleData name="Altitude">120.9</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100229</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">23.98</SimpleData>
+<SimpleData name="Humidity">36.5</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808517,41.032135,120.9</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:46:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:46:30</SimpleData>
+<SimpleData name="Latitude">41.032085</SimpleData>
+<SimpleData name="Longitude">-73.808571</SimpleData>
+<SimpleData name="Altitude">121.1</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.01</SimpleData>
+<SimpleData name="Humidity">36.4</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808571,41.032085,121.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:46:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:46:40</SimpleData>
+<SimpleData name="Latitude">41.032089</SimpleData>
+<SimpleData name="Longitude">-73.808655</SimpleData>
+<SimpleData name="Altitude">121.1</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100223</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.05</SimpleData>
+<SimpleData name="Humidity">36.35</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808655,41.032089,121.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:46:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:46:50</SimpleData>
+<SimpleData name="Latitude">41.032108</SimpleData>
+<SimpleData name="Longitude">-73.808632</SimpleData>
+<SimpleData name="Altitude">120.3</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.06</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.06</SimpleData>
+<SimpleData name="Humidity">36.31</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808632,41.032108,120.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:47:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:47:00</SimpleData>
+<SimpleData name="Latitude">41.032146</SimpleData>
+<SimpleData name="Longitude">-73.808556</SimpleData>
+<SimpleData name="Altitude">119.2</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.1</SimpleData>
+<SimpleData name="Humidity">36.23</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808556,41.032146,119.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:47:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:47:10</SimpleData>
+<SimpleData name="Latitude">41.032207</SimpleData>
+<SimpleData name="Longitude">-73.808456</SimpleData>
+<SimpleData name="Altitude">119.4</SimpleData>
+<SimpleData name="Inside_Temp">21.13</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100221</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.13</SimpleData>
+<SimpleData name="Humidity">36.24</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808456,41.032207,119.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:47:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:47:20</SimpleData>
+<SimpleData name="Latitude">41.032215</SimpleData>
+<SimpleData name="Longitude">-73.808426</SimpleData>
+<SimpleData name="Altitude">119.4</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.06</SimpleData>
+<SimpleData name="Pressure">100223</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.1</SimpleData>
+<SimpleData name="Humidity">35.77</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808426,41.032215,119.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:47:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:47:30</SimpleData>
+<SimpleData name="Latitude">41.0322</SimpleData>
+<SimpleData name="Longitude">-73.808365</SimpleData>
+<SimpleData name="Altitude">119</SimpleData>
+<SimpleData name="Inside_Temp">21.13</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100221</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.12</SimpleData>
+<SimpleData name="Humidity">35.58</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808365,41.0322,119</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:47:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:47:40</SimpleData>
+<SimpleData name="Latitude">41.032207</SimpleData>
+<SimpleData name="Longitude">-73.808533</SimpleData>
+<SimpleData name="Altitude">119.3</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.13</SimpleData>
+<SimpleData name="Pressure">100220</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.1</SimpleData>
+<SimpleData name="Humidity">35.83</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808533,41.032207,119.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:47:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:47:50</SimpleData>
+<SimpleData name="Latitude">41.03228</SimpleData>
+<SimpleData name="Longitude">-73.808304</SimpleData>
+<SimpleData name="Altitude">118.8</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100221</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.13</SimpleData>
+<SimpleData name="Humidity">35.87</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808304,41.03228,118.8</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:48:00</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:48:00</SimpleData>
+<SimpleData name="Latitude">41.032154</SimpleData>
+<SimpleData name="Longitude">-73.808258</SimpleData>
+<SimpleData name="Altitude">118.1</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100222</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.16</SimpleData>
+<SimpleData name="Humidity">35.9</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808258,41.032154,118.1</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:48:10</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:48:10</SimpleData>
+<SimpleData name="Latitude">41.031872</SimpleData>
+<SimpleData name="Longitude">-73.808365</SimpleData>
+<SimpleData name="Altitude">118.3</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100193</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.16</SimpleData>
+<SimpleData name="Humidity">35.85</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808365,41.031872,118.3</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:48:20</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:48:20</SimpleData>
+<SimpleData name="Latitude">41.031803</SimpleData>
+<SimpleData name="Longitude">-73.808334</SimpleData>
+<SimpleData name="Altitude">118.2</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100178</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.19</SimpleData>
+<SimpleData name="Humidity">35.81</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808334,41.031803,118.2</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:48:30</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:48:30</SimpleData>
+<SimpleData name="Latitude">41.031811</SimpleData>
+<SimpleData name="Longitude">-73.808334</SimpleData>
+<SimpleData name="Altitude">118</SimpleData>
+<SimpleData name="Inside_Temp">21.19</SimpleData>
+<SimpleData name="Outside_Temp">21.25</SimpleData>
+<SimpleData name="Pressure">100183</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.2</SimpleData>
+<SimpleData name="Humidity">35.8</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808334,41.031811,118</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:48:40</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:48:40</SimpleData>
+<SimpleData name="Latitude">41.031872</SimpleData>
+<SimpleData name="Longitude">-73.80838</SimpleData>
+<SimpleData name="Altitude">117.4</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">21.19</SimpleData>
+<SimpleData name="Pressure">100182</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.22</SimpleData>
+<SimpleData name="Humidity">35.75</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.80838,41.031872,117.4</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark>
+            <name>16:48:50</name>
+            <ExtendedData>
+                <SchemaData schemaUrl="#Sensor_Data_2025-05-20_21-41-21">
+                    <SimpleData name="Name">16:48:50</SimpleData>
+<SimpleData name="Latitude">41.032005</SimpleData>
+<SimpleData name="Longitude">-73.808418</SimpleData>
+<SimpleData name="Altitude">116.8</SimpleData>
+<SimpleData name="Inside_Temp">21.25</SimpleData>
+<SimpleData name="Outside_Temp">21.25</SimpleData>
+<SimpleData name="Pressure">100179</SimpleData>
+<SimpleData name="Ozone_Concentration">0</SimpleData>
+<SimpleData name="CO2_Quality">0</SimpleData>
+<SimpleData name="Temperature">24.23</SimpleData>
+<SimpleData name="Humidity">35.74</SimpleData>
+
+                </SchemaData>
+            </ExtendedData>
+            <Point>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>-73.808418,41.032005,116.8</coordinates>
+            </Point>
+        </Placemark>
+        
+    
+        <Placemark>
+            <name>Path</name>
+            <Style>
+                <LineStyle>
+                    <color>ff0000ff</color>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <LineString>
+                <extrude>0</extrude>
+                <altitudeMode>absolute</altitudeMode>
+                <coordinates>
+                    -73.806938,41.032162,125.9 -73.806915,41.032188,122.7 -73.806915,41.032227,123.2 -73.806923,41.032204,124.8 -73.806915,41.0322,123.6 -73.806923,41.032196,121.2 -73.806931,41.032196,119.8 -73.806885,41.032146,120.4 -73.80687,41.032047,120.4 -73.806717,41.031986,119.9 -73.806564,41.031975,120.2 -73.806435,41.031986,120.3 -73.806305,41.032001,120 -73.806183,41.032055,119.8 -73.806068,41.032158,119.8 -73.805962,41.032242,119.6 -73.805901,41.032352,118.5 -73.805893,41.032463,118.5 -73.805939,41.03257,118.5 -73.806015,41.032661,118.4 -73.806114,41.032787,116.8 -73.806198,41.032864,114.1 -73.80629,41.032963,114.2 -73.806435,41.033005,114 -73.806587,41.033016,115 -73.806732,41.033012,115.6 -73.806877,41.032986,116.7 -73.807053,41.032948,115 -73.807159,41.032955,117.2 -73.80722,41.032982,117.2 -73.807205,41.032997,116 -73.807213,41.032986,116.4 -73.80719,41.032978,115.3 -73.807182,41.032967,115.4 -73.807175,41.032974,115.2 -73.807182,41.032967,114.9 -73.80719,41.032967,114.3 -73.807182,41.03297,114.9 -73.807182,41.032978,114.3 -73.807182,41.032974,114.5 -73.807198,41.032967,114.9 -73.80719,41.03297,113.6 -73.807175,41.032982,113 -73.807167,41.032982,114.5 -73.807175,41.032978,114.2 -73.807167,41.032978,113.7 -73.807175,41.032974,113.5 -73.80719,41.03297,112.3 -73.80719,41.03297,112.7 -73.807182,41.032978,112.8 -73.807175,41.032982,113.9 -73.807167,41.032974,114.2 -73.807182,41.03297,114.1 -73.807175,41.032974,113.6 -73.807182,41.03297,113.5 -73.807182,41.032967,112.6 -73.807198,41.032967,112.3 -73.80719,41.032963,112.9 -73.807182,41.032955,113.6 -73.807182,41.032948,114 -73.80719,41.032955,115.3 -73.807175,41.032948,116.6 -73.807182,41.032917,118.1 -73.807289,41.032822,116.9 -73.807411,41.032757,117.6 -73.807549,41.032711,118.5 -73.807701,41.032639,118.8 -73.807808,41.032589,119.4 -73.807961,41.032574,119.2 -73.808083,41.032543,120.7 -73.808014,41.032501,120 -73.807945,41.032383,122.2 -73.807968,41.032276,121.2 -73.807976,41.032249,122.6 -73.807838,41.032269,126.1 -73.807693,41.032299,129.7 -73.807587,41.032276,129.4 -73.807571,41.032269,129.8 -73.807526,41.032249,129.8 -73.807495,41.032188,129.3 -73.807434,41.032215,130 -73.807434,41.0322,130 -73.807419,41.032207,130 -73.807716,41.031631,135.6 -73.80764,41.032341,156.8 -73.807663,41.032455,148.1 -73.807777,41.032616,146.7 -73.807648,41.032402,139.2 -73.807747,41.032486,138.1 -73.807922,41.032547,139.3 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.807877,41.032707,139.9 -73.808632,41.032345,139.8 -73.808556,41.032349,134.6 -73.808571,41.032196,124.9 -73.808525,41.032192,122.3 -73.808441,41.032196,121 -73.808517,41.032135,120.9 -73.808571,41.032085,121.1 -73.808655,41.032089,121.1 -73.808632,41.032108,120.3 -73.808556,41.032146,119.2 -73.808456,41.032207,119.4 -73.808426,41.032215,119.4 -73.808365,41.0322,119 -73.808533,41.032207,119.3 -73.808304,41.03228,118.8 -73.808258,41.032154,118.1 -73.808365,41.031872,118.3 -73.808334,41.031803,118.2 -73.808334,41.031811,118 -73.80838,41.031872,117.4 -73.808418,41.032005,116.8
+                </coordinates>
+            </LineString>
+        </Placemark>
+        
+</Document>
+</kml>
