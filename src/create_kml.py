@@ -44,9 +44,32 @@ display_names = [
 ]
 
 def escape(s):
+    """
+    Escapes special XML characters in a string for safe inclusion in KML/XML.
+    """
     return saxutils.escape(str(s))
 
+def generate_schema(schema_name):
+    """
+    Generates the KML Schema XML string for the given fields and display names.
+    """
+    schema_fields = ""
+    for (field, typ), display in zip(fields, display_names):
+        schema_fields += (
+            f'<SimpleField name="{escape(field)}" type="{typ}">'
+            f'<displayName>{escape(display)}</displayName></SimpleField>\n'
+        )
+    return (
+        f'<Schema name="{schema_name}" id="{schema_name}">\n'
+        f'{schema_fields}'
+        f'</Schema>\n'
+    )
+
 def create_kml():
+    """
+    Generates a KML file from sensor data, creating placemarks for each data point
+    and a path line connecting them. The KML file is saved to the 'kml_saves' directory.
+    """
     coords_list = []
     placemarks = []
 
@@ -81,7 +104,6 @@ def create_kml():
     # Path line
     linestring = ""
     if coords_list:
-        # Use actual altitude for each point in the path
         rows = list(parse.get_all_rows())
         coords_str = " ".join([
             f"{float(row[2])},{float(row[1])},{escape(row[3])}"
@@ -108,15 +130,7 @@ def create_kml():
         """
 
     # Schema definition
-    schema_fields = ""
-    for (field, typ), display in zip(fields, display_names):
-        schema_fields += f'<SimpleField name="{escape(field)}" type="{typ}"><displayName>{escape(display)}</displayName></SimpleField>\n' #pylint: disable=line-too-long
-
-    schema = f"""
-    <Schema name="{SCHEMA_NAME}" id="{SCHEMA_NAME}">
-        {schema_fields}
-    </Schema>
-    """
+    schema = generate_schema(SCHEMA_NAME)
 
     # KML document
     kml_content = f"""<?xml version="1.0" encoding="UTF-8"?>
